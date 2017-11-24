@@ -23,7 +23,7 @@ import org.wso2.broker.core.Broker;
 import org.wso2.broker.core.BrokerException;
 
 /**
- * AMQP channel representation
+ * AMQP channel representation.
  */
 public class AmqpChannel {
 
